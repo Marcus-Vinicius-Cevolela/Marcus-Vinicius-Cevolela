@@ -1,5 +1,5 @@
 # Olá! Sou o Marcus Vinícius. 👋🏽
-### Tenho 17 anos e me dedico aos estudos de programação e designer gráfico há mais ou menos 2 anos e meio. 
+### Tenho 18 anos e me dedico aos estudos de programação e designer gráfico há mais ou menos 2 anos e meio. 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-cevolela-355644292/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mv.tech21)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcus-cevolela)
